@@ -454,3 +454,4 @@
 /Users/yagmurorhankazi/Desktop/MuratYucedag_Egitim/ResumeProject/obj/Debug/net9.0/ResumeProject.pdb
 /Users/yagmurorhankazi/Desktop/MuratYucedag_Egitim/ResumeProject/obj/Debug/net9.0/ResumeProject.genruntimeconfig.cache
 /Users/yagmurorhankazi/Desktop/MuratYucedag_Egitim/ResumeProject/obj/Debug/net9.0/ref/ResumeProject.dll
+/Users/yagmurorhankazi/Desktop/MuratYucedag_Egitim/ResumeProject/obj/Debug/net9.0/ResumeProject.sourcelink.json
